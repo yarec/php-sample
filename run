@@ -1,0 +1,2 @@
+docker build -t my-php-app .
+docker run my-php-app
